@@ -1,6 +1,7 @@
 # Simple Banking System
-by-kshirabdhi Tanaya Mahanta
-Sparks Foundation Internship Project : Basic Banking System  
+By-kshirabdhi Tanaya Mahanta
+
+# Sparks Foundation Internship Project : Basic Banking System  
 A Web Application used to transfer money between multiple users.  
 
 Stack used - 
@@ -13,3 +14,7 @@ Database contains two Tables- Users Table & Transaction Table
 2. Transaction table records all transfers happened along with their time.  
 
 Flow of the Website: Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
+
+
+
+! THANK YOU !
