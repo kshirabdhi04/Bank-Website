@@ -8,6 +8,7 @@ It is a Basic Banking System for making transactions between users. It can trans
 Front-end : HTML, CSS, Bootstrap & Javascript 
 Back-end : PHP 
 Database : MySQL   
+Hosting on 000website: https://lnkd.in/d7YHZ-Yk
 
 Database contains two Tables- Users Table & Transaction Table 
 1. User table have basic fields such as name, email & current balance. 
